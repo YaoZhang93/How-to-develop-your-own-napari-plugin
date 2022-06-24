@@ -1,0 +1,10 @@
+name: napari-otsu
+display_name: napari otsu
+contributions:
+  commands:
+    - id: napari-otsu.make_otsu_seg_widget
+      python_name: napari_otsu._widget:otsu_seg_widget
+      title: Make Otsu Segmentation
+  widgets:
+    - command: napari-otsu.make_otsu_seg_widget
+      display_name: Otsu Segmentation

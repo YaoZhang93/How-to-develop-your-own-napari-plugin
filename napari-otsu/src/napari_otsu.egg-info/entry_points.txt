@@ -1,0 +1,2 @@
+[napari.manifest]
+napari-otsu = napari_otsu:napari.yaml
