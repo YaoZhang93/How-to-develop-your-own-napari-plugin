@@ -176,3 +176,12 @@ __all__ = (
 ```
 
 ![image](https://github.com/YaoZhang93/How-to-develop-your-own-napari-plugin/blob/main/figs/workflow.png)
+
+# Reference
+
+[1] [napari.org](https://napari.org/plugins/first_plugin.html)
+
+[2] [napari workshop](https://alisterburt.github.io/napari-workshops/SwissBIAS-1121/make_a_simple_plugin.html)
+
+[3] [cookiecutter](https://github.com/napari/cookiecutter-napari-plugin)
+
